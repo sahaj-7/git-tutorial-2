@@ -1,3 +1,3 @@
 commit 3
 
-conflict 2
+fixed conflict then merged
